@@ -1,0 +1,6 @@
+{
+  "name": "10Roses Flowers - Zahlé",
+  "description": "Artisanal floral arrangements, custom rose bouquets, and luxury flower boxes in Haouch El Omaraa, Zahlé, Lebanon. Same-day delivery and WhatsApp orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
